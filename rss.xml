@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[uwkb]]></title>
+        <description><![CDATA[uwkb]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 29 Dec 2015 22:24:50 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bring Your Best Game]]></title>
+            <description><![CDATA[<article><h1>Bring Your Best Game</h1><p>In my daily work, I rarely see perfection, but that's OK, because I often see dedication. I am privileged to work with dedicated staff who bring their best performance to every day. </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/41278172-6358-4496-ab5f-a5a58d191d35.JPG"></article>]]></description>
+            <link>undefinedbring-your-best-game/index.html</link>
+            <guid isPermaLink="false">4a28c5af-19a8-4711-bb11-ef57c1868044</guid>
+            <pubDate>Tue, 29 Dec 2015 22:24:44 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
