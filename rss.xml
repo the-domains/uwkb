@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[uwkb]]></title>
         <description><![CDATA[uwkb]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/uwkb/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 29 Dec 2015 22:24:50 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 12 Apr 2016 21:52:29 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/uwkb/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Golden Mayor challenges CPR]]></title>
+            <description><![CDATA[<article><h1>Golden Mayor challenges CPR</h1><p>“This letter is to inform you that our community, Golden, BC, expects to be paddling the Lower Canyon of the Kicking Horse River this May long weekend as part of our Annual Mountain Festival,” Mayor Ozust said in his letter. “It is our expectation that CP Rail will return to its role of good corporate citizen and community partner and come back to the table with a solution that ensures our access to this very important community asset. </p></article>]]></description>
+            <link>https://thegrid.ai/uwkb/golden-mayor-challenges-cpr/index.html</link>
+            <guid isPermaLink="false">07f659af-92b7-4326-b96d-83b1e2e5e824</guid>
+            <pubDate>Tue, 12 Apr 2016 21:52:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bring Your Best Game]]></title>
             <description><![CDATA[<article><h1>Bring Your Best Game</h1><p>In my daily work, I rarely see perfection, but that's OK, because I often see dedication. I am privileged to work with dedicated staff who bring their best performance to every day. </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/41278172-6358-4496-ab5f-a5a58d191d35.JPG"></article>]]></description>
-            <link>undefinedbring-your-best-game/index.html</link>
+            <link>https://thegrid.ai/uwkb/bring-your-best-game/index.html</link>
             <guid isPermaLink="false">4a28c5af-19a8-4711-bb11-ef57c1868044</guid>
             <pubDate>Tue, 29 Dec 2015 22:24:44 GMT</pubDate>
         </item>
